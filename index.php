@@ -3,6 +3,6 @@
         <title>PHP Test</title>
     </head>
     <body>
-        <?php echo '<p>Testing with NFS files inside. Part 2!</p>'; ?>
+        <?php echo '<p>This is interesting. I have made a symling to NFS</p>'; ?>
     </body>
 </html>
